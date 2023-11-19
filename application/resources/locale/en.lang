@@ -1,0 +1,21 @@
+tabs.add = "Add Wallpaper"
+tabs.gallery = "Gallery"
+tabs.settings = "Settings"
+
+dialog.choose = "Open Video File"
+dialog.filters = "Video Files (*.mp4 *.mkv *.avi)"
+
+settings.general = "General"
+settings.general.theme = "Theme"
+settings.general.theme.dark = "Dark"
+settings.general.theme.light = "Light"
+settings.general.language = "Language"
+
+settings.additional = "Additional"
+settings.additional.audio = "Audio enabled"
+settings.additional.saving = "Efficiency mode enabled"
+
+menu.settings = "Settings"
+menu.play = "Play"
+menu.pause = "Pause"
+menu.exit = "Exit"

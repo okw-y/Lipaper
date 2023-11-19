@@ -1,0 +1,21 @@
+tabs.add = "Добавить обои"
+tabs.gallery = "Галерея"
+tabs.settings = "Настройки"
+
+dialog.choose = "Открыть видео файл"
+dialog.filters = "Видео файлы (*.mp4 *.mkv *.avi)"
+
+settings.general = "Главное"
+settings.general.theme = "Тема"
+settings.general.theme.dark = "Темная"
+settings.general.theme.light = "Светлая"
+settings.general.language = "Язык"
+
+settings.additional = "Дополнительное"
+settings.additional.audio = "Звук включен"
+settings.additional.saving = "Эффективность включена"
+
+menu.settings = "Настройки"
+menu.play = "Проиграть"
+menu.pause = "Приостановить"
+menu.exit = "Выйти"
