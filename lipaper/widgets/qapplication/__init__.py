@@ -1,0 +1,1 @@
+from .qapplication import QBaseApplication

@@ -1,0 +1,1 @@
+from .qgallery import QScrollableWidgetsView

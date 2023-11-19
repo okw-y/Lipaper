@@ -1,0 +1,1 @@
+from .qwallpaper import QWallpaperWidget

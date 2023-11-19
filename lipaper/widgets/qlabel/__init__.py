@@ -1,0 +1,1 @@
+from .qlabel import QBaseLabel

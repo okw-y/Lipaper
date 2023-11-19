@@ -1,0 +1,1 @@
+from .qvideoplayer import QVideoPlayer

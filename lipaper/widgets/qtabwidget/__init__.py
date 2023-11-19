@@ -1,0 +1,1 @@
+from .qtabwidget import QTabWidget
