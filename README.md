@@ -30,4 +30,7 @@ We will be glad to receive any help! Feel free to ask questions about the progra
 
 For users from Russia and Ukraine: if you wish, you can support me on [DonatePay](https://new.donatepay.ru/@1173848) or [DonationAlerts](https://www.donationalerts.com/r/chazz_potato). I will be sincerely glad to receive any support from you!
 ## Screenshots
-There's nothing here yet :(
+
+![Main](https://raw.githubusercontent.com/okw-y/Lipaper/main/blob/screenshots/2.png)
+![Choose wallpaper](https://raw.githubusercontent.com/okw-y/Lipaper/main/blob/screenshots/1.png)
+![Settings](https://raw.githubusercontent.com/okw-y/Lipaper/main/blob/screenshots/0.png)
